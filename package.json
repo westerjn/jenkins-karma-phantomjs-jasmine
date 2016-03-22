@@ -4,7 +4,7 @@
   "description": "Demo Karam Test Runner with PhantomJS",
   "main": "index.js",
   "scripts": {
-    "test": "karma start"
+    "test": "karma start --log-level debug"
   },
   "author": "jimsloan",
   "license": "MIT",
